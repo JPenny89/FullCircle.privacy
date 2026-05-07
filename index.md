@@ -7,12 +7,12 @@
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs96 \cf0 \expnd0\expndtw0\kerning0
-***App name here*** - Privacy Policy
+Reflex Test: FullCircle - Privacy Policy
 \f1\b0 \
 \pard\pardeftab720\partightenfactor0
 
 \fs48 \cf0 \
-This policy applies to all information collected or submitted via the ***App name here*** app.\
+This policy applies to all information collected or submitted via the Reflex Test: FullCircle app.\
 \pard\pardeftab720\sa40\partightenfactor0
 \cf0 \
 \pard\pardeftab720\sa40\partightenfactor0
@@ -23,7 +23,7 @@ This policy applies to all information collected or submitted via the ***App nam
 
 \fs48 \cf0 \
 \pard\pardeftab720\partightenfactor0
-\cf0 ***App name here*** does not collect any information that can leave the user\'92s device. Users can record theirs or any name in the optional field on the Home Screen. This is stored on the device until the user decides to reset this data on the Leaderboard screen. Data is never transmitted over the internet.\
+\cf0 Reflex Test: FullCircle does not collect any information that can leave the user\'92s device. Users can record theirs or any name in the optional field on the Home Screen. This is stored on the device until the user decides to reset this data on the Leaderboard screen. Data is never transmitted over the internet.\
 \pard\pardeftab720\sa40\partightenfactor0
 \cf0 \
 \pard\pardeftab720\sa40\partightenfactor0
